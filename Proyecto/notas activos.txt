@@ -1,0 +1,42 @@
+**GROSS MARGIN**
+Mayor a 40% y consistencia
+
+
+**Net Margin (NER)**
+Mayor a 20%, estable y crecimiento.
+
+
+**ROE**
+Mayor a 0
+
+
+**FCF to sales**
+Estable y positivo
+
+
+**Current Ratio**
+Mayor a 1, de preferencia entre 1.5 y 2. Mayor a 3 es mucho
+
+
+**Solvency**
+-Si el resultado es inferior a 1.4, la situación es mala.
+-Si está entre 1.4 y 1.5, es normal.
+-Si es superior a 1.5, es buena.
+
+
+**EPS**
+Comparar contra industria
+
+
+
+
+-----TECH-----
+TSM
+ETN
+GOOGL
+CRM 
+
+-----SALUD----
+ISRG
+
+
